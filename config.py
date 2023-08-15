@@ -1,0 +1,1 @@
+config = {"base_url": "https://simple-books-api.glitch.me"}
